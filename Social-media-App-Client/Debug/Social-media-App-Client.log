@@ -1,0 +1,14 @@
+﻿Build started 11-07-2018 01:25:19.
+     1>Project "E:\MRND\mrnd-c-summer\Social-media-App-Client\Social-media-App-Client.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Social_media_app_main.cpp
+         Social_media_app_main.cpp
+     1>e:\mrnd\mrnd-c-summer\social-media-app-client\user_command_operations.h(479): warning C4101: 'newtext' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MRND\mrnd-c-summer\Social-media-App-Client\Debug\Social-media-App-Client.exe" /INCREMENTAL /NOLOGO pthreadVC2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MRND\mrnd-c-summer\Social-media-App-Client\Debug\Social-media-App-Client.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MRND\mrnd-c-summer\Social-media-App-Client\Debug\Social-media-App-Client.lib" /MACHINE:X86 Debug\Social_media_app_main.obj
+         Social-media-App-Client.vcxproj -> E:\MRND\mrnd-c-summer\Social-media-App-Client\Debug\Social-media-App-Client.exe
+     1>Done Building Project "E:\MRND\mrnd-c-summer\Social-media-App-Client\Social-media-App-Client.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
